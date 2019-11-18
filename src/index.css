@@ -1,0 +1,15 @@
+#svgBoard{
+  fill:#ecf0f1;
+  stroke:rgb(27, 27, 27);
+  stroke-width:2;
+}
+
+#movingPart{
+  fill:#bdc3c7;
+  stroke:rgb(27, 27, 27);
+  stroke-width:1;
+}
+
+.txtSvg{
+  font: bold 40px arial; fill: #bdc3c7;
+}
